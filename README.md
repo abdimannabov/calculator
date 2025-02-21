@@ -2,8 +2,7 @@
 
 A simple desktop calculator application built in Python. This is my first project as a beginner, and it demonstrates basic arithmetic operations through a graphical user interface (GUI).
 
-![Calculator Screenshot](https://user-images.githubusercontent.com/YourGitHubUsername/YourRepoName/PathToScreenshot.png)
-*(Replace the above link with the actual path or GitHub URL of your screenshot.)*
+![Calculator Screenshot](https://github.com/abdimannabov/calculator/blob/main/Screenshot%202025-02-21%20182507.png)
 
 ## Features
 - Addition, subtraction, multiplication, and division
